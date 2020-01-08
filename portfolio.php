@@ -11,30 +11,30 @@
 
           <div class="col-lg-12">
             <ul id="portfolio-flters">
-              <li data-filter=".filter-teste, .filter-teste1" class="filter-active">All</li>
-              <li data-filter=".filter-teste">Teste</li>
-              <li data-filter=".filter-web">Teste 1</li>
+              <li data-filter=".filter-filtroa, .filter-filtrob" class="filter-active">Tudo</li>
+              <li data-filter=".filter-filtroa">Filtro A</li>
+              <li data-filter=".filter-filtrob">Filtro B</li>
             </ul>
           </div>
         </div>
 
         <div class="row" id="portfolio-wrapper">
-          <div class="col-lg-3 col-md-6 portfolio-item filter-teste">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-filtroa">
             <a href="">
               <img src="img/portfolio/app1.jpg" alt="">
               <div class="details">
                 <h4>Teste</h4>
-                <span>Alored dono par</span>
+                <span>Descrição do elemento no filtro A</span>
               </div>
             </a>
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-teste1">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-filtrob">
             <a href="">
               <img src="img/portfolio/web2.jpg" alt="">
               <div class="details">
-                <h4>Teste 1</h4>
-                <span>Alored dono par</span>
+                <h4>Teste</h4>
+                <span>Descrição do elemento no filtro B</span>
               </div>
             </a>
           </div>
