@@ -8,7 +8,7 @@
           <div class="col-lg-6 content order-lg-1 order-2">
             <h2 class="title">Sobre nós</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              Escreva aqui.
             </p>
 
             <div class="icon-box wow fadeInUp">
