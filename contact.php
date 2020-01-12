@@ -22,7 +22,7 @@
 
               <div>
                 <i class="fa fa-envelope"></i>
-                <p>contato@neloredamandy.com.br</p>
+                <p>contato@neloredamandy.com</p>
               </div>
 
               <div>
